@@ -4,3 +4,4 @@ DOMAIN,weatherapi.intl.xiaomi.com
 DOMAIN,update.intl.miui.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,ip.gs

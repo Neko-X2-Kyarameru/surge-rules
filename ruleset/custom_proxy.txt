@@ -1,0 +1,6 @@
+DOMAIN,global.market.xiaomi.com
+DOMAIN,thm.market.intl.xiaomi.com
+DOMAIN,weatherapi.intl.xiaomi.com
+DOMAIN,update.intl.miui.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,msn.com

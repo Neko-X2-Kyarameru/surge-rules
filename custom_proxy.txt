@@ -4,3 +4,4 @@ weatherapi.intl.xiaomi.com
 update.intl.miui.com
 .bing.com
 .msn.com
+.ip.gs

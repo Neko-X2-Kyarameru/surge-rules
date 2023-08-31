@@ -2,5 +2,5 @@ global.market.xiaomi.com
 thm.market.intl.xiaomi.com
 weatherapi.intl.xiaomi.com
 update.intl.miui.com
-bing.com
-msn.com
+.bing.com
+.msn.com
